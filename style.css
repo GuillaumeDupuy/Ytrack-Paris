@@ -79,7 +79,7 @@ html, body {
     color: black;
     text-shadow: 2px 2px 10px white;
   }
-  
+
   nav form {
     flex: 1;
     display: flex;
@@ -103,6 +103,10 @@ html, body {
   
   article {
     flex: 4;
+  }
+
+  article p {
+    text-align: center;
   }
   
   footer {
