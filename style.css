@@ -51,7 +51,7 @@ html, body {
     padding: 1%;
   }
 
-  article2 {
+  .article2 {
     background-color: white;
     display: block;
     padding: 1%;
@@ -112,7 +112,7 @@ html, body {
     flex: 4;
   }
 
-  article2 {
+  .article2 {
     flex: 4;
   }
 
@@ -120,7 +120,7 @@ html, body {
     text-align: center;
   }
 
-  article2 p {
+  .article2 p {
     text-align: left;
   }
 
