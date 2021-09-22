@@ -50,7 +50,14 @@ html, body {
     background-color: white;
     padding: 1%;
   }
-  
+
+  article2 {
+    background-color: white;
+    display: block;
+    padding: 1%;
+    margin-bottom: 1%;
+  }
+ 
   nav {
     height: 50px;
     background-color: #23b2a4;
@@ -105,10 +112,18 @@ html, body {
     flex: 4;
   }
 
+  article2 {
+    flex: 4;
+  }
+
   article p {
     text-align: center;
   }
-  
+
+  article2 p {
+    text-align: left;
+  }
+
   footer {
     margin-top: 10px;
     background-color: #23b2a4;
