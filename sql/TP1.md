@@ -15,9 +15,7 @@ Cette section vous guide `a l'installation de SQLite, si vous souhaitez l'instal
 - Télécharger le fichier .zip (pas le DDL ou l'analyseur).
 - Décompresser le fichier .zip pour extraire le fichier sqlite3.exe. Vous pouvez décompresser le fichier par exemple, C:\sqlite.
 - Double-cliquer sur sqlite3.exe.
-Une image contenant texte
-
-Description générée automatiquement
+![install](https://user-images.githubusercontent.com/56391911/134421055-c32a9f13-58b1-4d1e-b004-684b25b82e95.png)
 
 1.2 Installation sous Mac OS X
 - Aller sur la page de téléchargement de SQLite : http://www.sqlite.org/download.html
