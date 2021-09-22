@@ -94,7 +94,6 @@ idActeur et idFilm sont des clés étrangères correspondant aux attributs Acteu
 et Film(idFilm).
 
 11. Ecrire les requêtes pour remplir la table Filmographie :
-12. 
 - Deep a joué dans Chocolat et Rango
 - Al Pacino dans Le parrain et Scarface 	
 - Sharma dans La vie de Pi.
@@ -111,8 +110,7 @@ Voila le résultat que vous devez voir apparaître :
 13. Ecrire une requête qui permet de lister les idfilm de l'acteur Johny Deep
 Voila le résultat que vous devez voir apparaître :
 
-4
-6
+4|6
 
 14. Ecrire une requête qui permet d'afficher les noms des films avec le nom de l'acteur
 Voila le résultat que vous devez voir apparaître :
@@ -126,10 +124,10 @@ La vie de Pi|Sharma
 15. Ecrire une requête qui permet d'afficher une phrase : acteur.nom à joué dans film.titre
 Voila le résultat que vous devez voir apparaître :
 
-Deep a joué dans chocolat
-Deep a joué dans rango
-Pacino a joué dans Le parrain
-Pacino a joué dans scarface
+Deep a joué dans chocolat,
+Deep a joué dans rango,
+Pacino a joué dans Le parrain,
+Pacino a joué dans scarface,
 Sharma a joué dans La vie de Pi
 
 ### 2.2 Exécuter un script SQL
