@@ -1,0 +1,116 @@
+/** @format */
+
+@font-face {
+  font-family: "Poke";
+  src: url("pokemon.ttf") format("truetype");
+}
+
+* {
+  font-family: "Poke";
+  image-rendering: pixelated;
+}
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+#anywhere {
+  width: 100vw;
+  height: 100vh;
+  font-size: 8em;
+  cursor: pointer;
+  background-color: transparent;
+  border: none !important;
+}
+
+#clickbox {
+  position: absolute;
+  bottom: 5vh;
+  left: 15vw;
+  width: 70%;
+  height: 12vw;
+  cursor: pointer;
+  background-color: transparent;
+  border: none !important;
+}
+
+#text {
+  white-space: pre-wrap;
+  line-height: 1em;
+  color: #3d3c3f;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#divbox {
+  overflow-wrap: break-word;
+  position: absolute;
+  bottom: 8vh;
+  left: 18vw;
+  width: 60%;
+  height: 9vw;
+  font-size: 3vw;
+}
+
+#arrow {
+  animation: MoveUpDown 0.5s linear infinite;
+  position: absolute;
+  bottom: 8vh;
+  right: 16vw;
+  width: 2vw;
+  display: none;
+}
+
+#textbox {
+  position: absolute;
+  bottom: 5vh;
+  left: 15vw;
+  width: 70vw;
+  height: auto;
+  display: none;
+}
+
+#docker {
+  display: block;
+  position: absolute;
+  top: 10vh;
+  left: 50vw;
+  animation: fade 1s linear;
+  transform: translate(-50%, 0);
+  display: none;
+}
+
+#rowan {
+  display: block;
+  position: absolute;
+  top: 10vh;
+  left: 50vw;
+  width: 30vh;
+  height: auto;
+  animation: fade 1s linear;
+  image-rendering: pixelated;
+  transform: translate(-50%, 0);
+}
+
+/* Up and down arrow */
+@keyframes MoveUpDown {
+  0% {
+    bottom: 8vh;
+  }
+  100% {
+    bottom: 9vh;
+  }
+  50% {
+    bottom: 10vh;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

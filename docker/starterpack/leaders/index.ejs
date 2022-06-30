@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>LEADERS</title>
+</head>
+
+<body>
+    <button onclick="startup()" id="anywhere">CLICK ANYWHERE TO START</button>
+    <audio
+        src="https://vgmsite.com/soundtracks/pokemon-diamond-and-pearl-super-music-collection/hmsabolr/1-14%20Laboratory.mp3"
+        id="ost" preload="auto"></audio>
+    <audio src="clicksound.wav" id="selsound" preload="auto"></audio>
+    <img id="docker" src="https://devopstuto-docker.readthedocs.io/en/latest/_images/docker-swarm.gif"
+        alt="Docker Loading image">
+    <!-- Sprites -->
+    <img style="display: none;" id="rowan" src="rowan.png" alt="Rowan">
+    <img id="textbox" src="textbox.png" alt="Text box">
+    <div id="divbox">
+        <span id="text"></span>
+    </div>
+    <img id="arrow" src="arrow.png" alt="Arrow to click for dialogue">
+    <button onclick="buttonClick()" id="clickbox"></button>
+</body>
+
+</html>

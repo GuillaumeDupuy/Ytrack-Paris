@@ -1,0 +1,14 @@
+exercise:
+  name: AdventureCatch
+  quest: 4
+  index: 10
+  files-from-student:
+    - Character.java
+    - Monster.java
+    - Tank.java
+    - Healer.java
+    - Sorcerer.java
+    - Templar.java
+    - Weapon.java
+    - DeadCharacterException.java
+  test-folder: AdventureCatchTest

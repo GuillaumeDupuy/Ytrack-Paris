@@ -5,6 +5,17 @@
 Welcome to the PHP 8 pool! The idea of this pool is to introduce you to `PHP`.
 In this course we will see the basics of the language, (variables, conditions, ...) up to the fundamentals of POO (Object Oriented Programming).
 
+### Setup
+
+To start programming in PHP :
+- Windows : Download and install the PHP binaries [here](https://windows.php.net/download/). Download the "Zip" x64 version.
+Use `php.exe` to run your php file.*
+- Linux : Depending on your distro, you may just have to use your packet manager, and the binaries will be added automatically to your path. Use `php "file.php"` to run your program.
+
+*If you want to simply use the `php` command on Windows, add PHP to the environment variables of your Windows install. See [here](https://www.php.net/manual/en/faq.installation.php#faq.installation.addtopath).
+
+Once this is done, install the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension for Visual Studio Code. Restart VS Code, and voilà ! Use the play button at the top right to run your program.
+
 ### Explanations
 
 #### The syntax of PHP

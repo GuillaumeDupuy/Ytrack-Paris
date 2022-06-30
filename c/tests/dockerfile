@@ -1,0 +1,9 @@
+FROM python:3.11.0a7-alpine3.14
+
+RUN ["apk" ,"add", "build-base"]
+
+WORKDIR /app
+
+COPY . .
+
+ENTRYPOINT [ "sh", "/app/entrypoint.sh" ]

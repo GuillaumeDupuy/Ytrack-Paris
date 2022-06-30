@@ -4,13 +4,16 @@ set -e
 
 cd /jail
 
-dotnet nuget disable source nuget.org
-dotnet nuget add source /dotnetpkg
+
+
+dotnet nuget disable source nuget.org > /dev/null
+dotnet nuget add source /dotnetpkg > /dev/null
 
 cp -rf ./student ./repo
 
 mkdir tests && cd tests
 cp -rf "/app/${EXERCISE}Tests" /app/tests.csproj /app/Utils.cs .
+dotnet restore --packages /dotnetpkg > /dev/null
 
-dotnet restore --packages /dotnetpkg
-dotnet test --filter $EXERCISE --no-restore
+
+dotnet test --filter $EXERCISE --no-restore 
