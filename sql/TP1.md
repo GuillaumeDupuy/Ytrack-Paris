@@ -1,5 +1,7 @@
-## Bases de données
-### TP 1
+## Paris Ynov Campus
+
+### TP N°1 - SQL
+### Année : 2021/2022
 ### Mentor Ynov
 
 Dans ce TP, nous allons voir les requêtes basiques pour créer et manipuler une base de données sous SQLite. A la fin de la séance, vous devez :
