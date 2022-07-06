@@ -1,49 +1,27 @@
 ## Paris Ynov Campus
 
 ### TP N°1 - SQL
-### Année : 2021/2022
+### Année : 2022/2023
 ### Mentor Ynov
 
 Dans ce TP, nous allons voir les requêtes basiques pour créer et manipuler une base de données sous SQLite. A la fin de la séance, vous devez :
-- Rendre un script SQL (un fichier .sql) avec les requêtes SQL qu'il vous est demande d'écrire.
-- Ce fichier doit être nommé avec vos noms et le numéro du TP : prénom-nom-tp.sql.
-- Envoyer ce fichier à l'adresse e-mail suivante : guillaume.dupuy@ynov.com
 
-### 1 Installation de SQLite
+- Rendre un script SQL (un fichier .sql) avec toutes les commandes et les requêtes SQL qu'il vous est demander de faire.
 
-Cette section vous guide `a l'installation de SQLite, si vous souhaitez l'installer sur vos machines personnelles. Si vous avez déjà SQLite installé, vous pouvez aller directement à la section 2.`
+- Ce fichier doit être nommé avec votre nom et le numéro du TP : prénom-nom-tp.sql.
 
-### 1.1 Installation sous Windows
+- Envoyer ce fichier sur l'espace moodle
 
-- Aller sur la page de téléchargement de SQLite : http://www.sqlite.org/download.html
-- Aller sur "Precompiled Binaries for Windows".
-- Télécharger le fichier .zip (pas le DDL ou l'analyseur).
-- Décompresser le fichier .zip pour extraire le fichier sqlite3.exe. Vous pouvez décompresser le fichier par exemple, C:\sqlite.
-- Double-cliquer sur sqlite3.exe.
-
-![install](https://user-images.githubusercontent.com/56391911/134421055-c32a9f13-58b1-4d1e-b004-684b25b82e95.png)
-
-### 1.2 Installation sous Mac OS X
-
-- Aller sur la page de téléchargement de SQLite : http://www.sqlite.org/download.html
-- Aller sur "Precompiled Binaries for Mac OS X".
-- Télécharger le fichier .zip (pas l'analyseur).
-- Double-cliquer sur le fichier .zip pour le décompresser et extraire le fichier sqlite3. Vous pouvez décompresser le fichier dans n'importe quel répertoire.
-- Double-cliquer sur sqlite3.
-
-### 2 Lancement de requêtes SQL
-
-Une fois sur l'interface de commande SQLite, il est possible de lancer des requêtes SQL `a la main, ou en exécutant un script.`
-
-### 2.1 Ecrire les requêtes a la main 
+### 1 Les requêtes
 
 Dans cet exercice, nous allons créer une base de données " Cinéma " avec le schéma suivant:
+
 Film (***idFilm*** integer, titre varchar(80) )
 Acteur (***idActeur*** integer, nom varchar(80), prenom varchar(80) )
 Filmographie (***idActeur*** integer, idFilm integer)
 
 Les attributs en italique et gras sont des clés primaires.
-Avant de créer une table film, vérifier qu'elle n'existe pas comme suit : drop table if exists film;
+Avant de créer une table film, vérifier qu'elle n'existe pas.
 
 1. Ecrire une requête pour créer la table Films avec la colonne idFilm de type integer (en tant que clé primaire) et la colonne titre de type varchar (non null).
 
@@ -132,8 +110,11 @@ Pacino a joué dans Le parrain,
 Pacino a joué dans scarface,
 Sharma a joué dans La vie de Pi
 
-### 2.2 Exécuter un script SQL
+### 2 Création du script SQL
 
 1. Créer un fichier .sql et nommez le prénom-nom-tp.sql.
 2. Ajouter toutes les requêtes crées dans l'exercice précédent.
-3. Exécuter la commande  ./sqlite3 prénom-nom.sql
+
+OU
+
+1. Exécuter la commande dump vu dans le cours pour générer le script directement
