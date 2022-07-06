@@ -1,15 +1,15 @@
 ## Paris Ynov Campus
 
 ### TP N°2 - SQL
-### Année : 2021/2022
+### Année : 2022/2023
 ### Mentor Ynov
 
 ## Consignes importantes :
 
--     Créer le fichier ynov.db
--     Importer le fichier ynov.db dans un projet SQLite dans Table Plus
--     Exécutez vos requêtes dans l'onglet SQL
--     Créer le fichier tp2.sql, mettez chaque requête exécutée correctement dans le fichier suivie d'un point-virgule (;).
+- Créer le fichier ynov.db
+- Importer le fichier ynov.db dans un projet SQLite dans Table Plus
+- Exécutez vos requêtes dans l'onglet SQL
+- Créer le fichier tp2.sql, mettez chaque requête exécutée correctement dans le fichier suivie d'un point-virgule (;).
 
 ### Exercice 1 :  Création et structuration des tables
 
@@ -31,30 +31,30 @@ comme suit :
 - dateDeNaissance qui est une date et not null
 - idFormation qui est une référence (clé étrangère) d'idFormation  de la table formation
 
-5)  -  Insérer la Iiste d'étudiants qui se trouve dans le fichier Iiste_étudiants.txt dans la table 
+5)  — Insérer la Iiste d'étudiants qui se trouve dans le fichier Iiste_étudiants.txt dans la table 
 etudiant, assurez-vous d'avoir un résultat comme suit :
 
 ![5](https://user-images.githubusercontent.com/56391911/134422671-7bfc3c6f-f319-404a-b3e2-af59f89d2aa3.png)
 
-6)  Ecrire une requête qui permet d'ajouter l'étudiante Laurent Caroline qui est née le 2000-07-16 
+6) — Ecrire une requête qui permet d'ajouter l'étudiante Laurent Caroline qui est née le 2000-07-16 
 et qui est en B2 informatique à la table etudiant
 
-7)  Créer la table enseignant qui a la structure suivante :
+7) — Créer la table enseignant qui a la structure suivante :
 -    idEnseignant qui est une clé primaire et not null.
 -    nom qui est un varchar(50) et not null
 -    prenom qui est un varchar(50) et not null
 -    dateDeNaissance qui est une date et not null
 
-8)  Insérer la Iiste des enseignants qui se trouve dans le fichier Iiste_enseignants.txt, 
+8) — Insérer la Iiste des enseignants qui se trouve dans le fichier Iiste_enseignants.txt, 
 assurez-vous que vous avez un résultat comme suit :
 
 ![8](https://user-images.githubusercontent.com/56391911/134422687-8e3f13e1-714f-4e00-aee0-d9fb8231f6f6.png)
 
-9)  Créer la table enseignement  qui a les colonnes suivante :
+9) — Créer la table enseignement  qui a les colonnes suivante :
 -    idFormation qui est une référence d’idFormation  de la table formation
 -    idEnseignant qui est une référence d’idEnseignant de la table enseignant
 
-10) A partir des informations ci-dessous remplissez la table enseignement  :
+10) — A partir des informations ci-dessous remplissez la table enseignement  :
 
 -    Mr Taxier-Boulay enseigne tous les niveaux de marketing
 -    Mr Rousseau enseigne tous les niveaux d'audiovisuel
@@ -68,7 +68,7 @@ assurez-vous que vous avez un résultat comme suit :
 
 ### Exercice 2 : Opérations sur les données
 
-## RQ : Avant de commencer faites une copie pour votre fichier ynov.db pour éviter de refaire toutes les requêtes précédente en cas d'erreur.
+#### RQ : Avant de commencer faites une copie de votre fichier ynov.db pour éviter de refaire toutes les requêtes précédente en cas d'erreur.
 
 1)  — Ecrire une requête qui permet d'afficher toutes les informations de tous les enseignants
 
@@ -81,29 +81,24 @@ table enseignements
 4)  — L'école décide de supprimer tous les niveaux de là la formation Animation faites des requêtes 
 pour mettre à jour les tables concernées.
 
-5)  — Ecrire une requête qui permet d'afficher tous les étudiants qui ont un nom qui contient la 
-lettre ‘b’
+5)  — Ecrire une requête qui permet d'afficher tous les étudiants qui ont un nom qui contient la lettre ‘b’
 
-6)  Ecrire une requête qui permet d'afficher les 3 plus jeunes étudiants.
+6) — Ecrire une requête qui permet d'afficher les 3 plus jeunes étudiants.
 
-7)  - Ecrire une requête qui permet d'afficher tous les étudiants qui sont en b1 et en b2.
+7)  — Ecrire une requête qui permet d'afficher tous les étudiants qui sont en b1 et en b2.
 
-8) - Ecrire une requête qui permet d'afficher (avec un alias phrase) des phrases sous la forme 
-suivante :
+8) — Ecrire une requête qui permet d'afficher (avec un alias phrase) des phrases sous la forme suivante :
 
-Mr (nom enseignant) enseigne la formation (nom de formation) ou se trouve l'étudiant (nom 
-étudiant).
+Mr (nom enseignant) enseigne la formation (nom de formation) ou se trouve l'étudiant (nom étudiant).
 
 
-9) -Ecrire une requête qui permet d'afficher le nombre de formations au niveau B3, avec un 
-alias nbFormationsB3
+9) — Ecrire une requête qui permet d'afficher le nombre de formations au niveau B3, avec un alias nb_FormationsB3
 
-10) - Ecrire une requête qui permet d'afficher le nom et prénom et l'Age de chaque étudiant.
+10) — Ecrire une requête qui permet d'afficher le nom et prénom et l'Age de chaque étudiant.
 
-11) - Ecrire une requête qui permet d'afficher en plus du nom et prenom de l'étudiant une 
-nouvelle case ou on indique s'il est concerné par le stage ou pas, la case est nommée stage.
+11) — Ecrire une requête qui permet d'afficher en plus du nom et prenom de l'étudiant une nouvelle case où on indique s'il est concerné par le stage ou pas, la case est nommée stage.
 
 -    Les étudiants concernés par le stage sont les étudiants de B3.
 -    On donne la valeur ‘Oui’ pour les concernés et ‘Non’ pour les non concernés.
 
-12) - En utilisant une sous-requête, Supprimez tous les étudiants qui sont en ‘Audiovisuel’.
+12) — En utilisant une sous-requête, Supprimez tous les étudiants qui sont en ‘Audiovisuel’.
