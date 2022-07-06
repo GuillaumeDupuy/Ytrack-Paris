@@ -11,7 +11,7 @@ html, body {
   }
   
   body {
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
   }
   
@@ -80,7 +80,7 @@ html, body {
   
   nav a {
     display: inline-block;
-    font-size: 2rem;
+    font-size: 17px;
     text-transform: uppercase;
     text-decoration: none;
     color: black;
