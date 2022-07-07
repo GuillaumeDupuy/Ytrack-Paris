@@ -1,4 +1,6 @@
-[https://youtu.be/uQmO_5bjPr0?t=7](https://youtu.be/uQmO_5bjPr0?t=7)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQmO_5bjPr0/0.jpg)](https://youtu.be/uQmO_5bjPr0?t=7)
+<iframe width="1863" height="770" src="https://youtu.be/uQmO_5bjPr0?t=7" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Les différents formats graphiques
 
@@ -8,7 +10,7 @@ Ils ont tous leur(s) spécificité(s) et c’est ce que tu dois prendre en compt
 
 ---
 
-## 01 - JPEG (**Joint Photographic Expert Group)**
+# 01 - JPEG (**Joint Photographic Expert Group)**
 
 JPEG est le format photo le plus répandu, il est notamment utilisé par les appareils photo numériques. Ce format est réputé pour sa compression de données ; il ne va garder que les informations visibles pour notre œil et supprimer celles que l’on ne peut voir.
 
@@ -21,7 +23,7 @@ C’est un format universel qui peut être lu sur n’importe quel support et qu
 
 ---
 
-## 02 - **PNG (Portable Network Graphics)**
+# 02 - **PNG (Portable Network Graphics)**
 
 Le PNG est reconnu pour sa compression sans perte qui supporte de grandes qualités d’images tout en conservant la netteté et les couleurs initiales de l’image originale.
 
@@ -32,7 +34,7 @@ Ce format supporte les fonds transparents, idéal pour des logos, incrustations,
 
 ---
 
-## 03 - **GIF (Graphics Interchange Format)**
+# 03 - **GIF (Graphics Interchange Format)**
 
 Tu as probablement déjà entendu parler de ce format grâce à sa fonctionnalité la plus populaire qui a pris d’assaut Internet : l’animation. Le GIF utilise un algorithme de compression sans perte appelé LZW, et il est plus approprié pour stocker des graphismes avec peu de couleurs, comme des diagrammes, des logos ou des formes simples.
 
@@ -43,7 +45,7 @@ De petite taille, ce format s’adapte à toutes les plateformes, cependant à c
 
 ---
 
-## 04 - **PDF (Portable Document Format)**
+# 04 - **PDF (Portable Document Format)**
 
 Créé par Adobe, le PDF est maintenant systématiquement utilisé pour la mise en ligne de fichiers ou l’impression de ceux-ci. Ce format permet de partager et d’enregistrer un fichier sans qu’il puisse être modifié, tout en gardant le même affichage sur n’importe quel support.
 
@@ -54,7 +56,7 @@ Ce format peut contenir plusieurs éléments différents : texte, photo, image 
 
 ---
 
-## 05 - **SVG (Scalable Vector Graphics)**
+# 05 - **SVG (Scalable Vector Graphics)**
 
 Le SVG est un format qui permet de sauvegarder et afficher des images vectorielles. Ce format est léger et permet de redimensionner les images sans perte de qualité. Il ne s’utilise que sur les navigateurs et n’est pas supporté par les réseaux sociaux.
 
@@ -63,7 +65,7 @@ Le SVG est un format qui permet de sauvegarder et afficher des images vectoriell
 
 ---
 
-## 06 - EPS **(Encapsulated Postscript)**
+# 06 - EPS **(Encapsulated Postscript)**
 
 Prédécesseur du PDF, il rentre également dans la catégorie des fichiers vectoriels, c’est-à-dire redimensionnables à volonté. Il peut être ouvert avec plusieurs logiciels (Illustrator, Photoshop, etc.), ce qui en fait généralement un fichier de partage. C’est en revanche un fichier lourd qui est souvent remplacé par le format PDF.
 
@@ -72,7 +74,7 @@ Prédécesseur du PDF, il rentre également dans la catégorie des fichiers vect
 
 ---
 
-## 07 - TIFF **(Tagged Image File Format)**
+# 07 - TIFF **(Tagged Image File Format)**
 
 Le format TIFF est le format de référence pour les images de haute qualité. Principalement utilisé par les professionnels dans le domaine commercial et de l’impression, c’est un fichier lourd mais supporté par tous les systèmes d’exploitation. Ce format est généralement utilisé pour l’impression de très haute qualité.
 
@@ -81,7 +83,7 @@ Le format TIFF est le format de référence pour les images de haute qualité. P
 
 ---
 
-## 08 - Les formats natifs de la suite Adobe
+# 08 - Les formats natifs de la suite Adobe
 
 - **Photoshop** : `PSD`
 - **Illustrator :** `AI`

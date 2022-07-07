@@ -1,12 +1,14 @@
 # Les outils de sélection
 
-Dans ces tutoriels consacrés à aux outils de sélection, tu apprendras à effectuer une sélection à l’aide des principaux outils dédiés et à améliorer les contours d’une sélection dans Adobe Photoshop.
+Dans ces tutoriels consacrés aux outils de sélection, tu apprendras à effectuer une sélection à l’aide des principaux outils dédiés et à améliorer les contours d’une sélection dans Adobe Photoshop.
 
 ---
 
-### 1 - ****Principes de base d'une sélection****
+# 1 - ****Principes de base d'une sélection****
 
-[https://youtu.be/LhcaUuRv32Y](https://youtu.be/LhcaUuRv32Y)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LhcaUuRv32Y/0.jpg)](https://youtu.be/LhcaUuRv32Y)
+<iframe width="1863" height="770" src="https://youtu.be/LhcaUuRv32Y" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment effectuer une sélection et apporter des réglages à la zone sélectionnée uniquement.**
 
@@ -19,9 +21,11 @@ Une sélection permet d’isoler et de retoucher une partie d’une image sans t
 
 ---
 
-### 2 - ****Utilisation des outils Sélection rapide et Lasso****
+# 2 - ****Utilisation des outils Sélection rapide et Lasso****
 
-[https://youtu.be/Jq_CVREfrvo](https://youtu.be/Jq_CVREfrvo)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jq_CVREfrvo/0.jpg)](https://youtu.be/Jq_CVREfrvo)
+<iframe width="1863" height="770" src="https://youtu.be/Jq_CVREfrvo" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment utiliser l’outil Sélection rapide.**
 
@@ -40,9 +44,11 @@ Une sélection permet d’isoler et de retoucher une partie d’une image sans t
 
 ---
 
-### 3 - ****Amélioration d'une sélection****
+# 3 - ****Amélioration d'une sélection****
 
-[https://youtu.be/vNkX4kM5qKo](https://youtu.be/vNkX4kM5qKo)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vNkX4kM5qKo/0.jpg)](https://youtu.be/vNkX4kM5qKo)
+<iframe width="1863" height="770" src="https://youtu.be/vNkX4kM5qKo" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment améliorer une sélection.**
 
@@ -55,9 +61,11 @@ Une sélection permet d’isoler et de retoucher une partie d’une image sans t
 
 ---
 
-### 4 - Le masque de fusion
+# 4 - Le masque de fusion
 
-[https://www.youtube.com/watch?v=oxws_jxNbRM](https://www.youtube.com/watch?v=oxws_jxNbRM)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oxws_jxNbRM/0.jpg)](https://youtu.be/oxws_jxNbRM)
+<iframe width="1863" height="770" src="https://youtu.be/oxws_jxNbRM" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment utiliser les masques de fusion.**
 
@@ -73,17 +81,19 @@ En effet, pour les **détourages** sur Photoshop, beaucoup se contentent de sup
 
 ---
 
-### 5 - Mise en pratique
+# 5 - Mise en pratique
 
 Tu vas maintenant mettre en pratique ce que tu viens de voir en détourant le sujet de ton calque *Sujet* ainsi que ses cheveux. Voici un tutoriel t’expliquant la méthode, à regarder jusqu’à **4:37**.
 
-[https://www.youtube.com/watch?v=yjIAr_g8Qpw&t=316s](https://www.youtube.com/watch?v=yjIAr_g8Qpw&t=316s)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yjIAr_g8Qpw/0.jpg)](https://youtu.be/yjIAr_g8Qpw)
+<iframe width="1863" height="770" src="https://youtu.be/yjIAr_g8Qpw" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Tu peux activer les sous-titres de la vidéos et changer leur langue en allant dans **Paramètres > Sous-titres > Traduire automatiquement > Français**.*
 
 À toi de jouer ! Tu vas maintenant devoir réaliser le détourage du sujet en utilisant la méthode vue dans le tutoriel. Pas de panique, nous allons t’aider pas-à-pas !
 
-![Quête 04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32437023-cb46-42e0-bf26-a1603b6624c6/Qute_04.png)
+![Quête 04.png](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F32437023-cb46-42e0-bf26-a1603b6624c6%2FQute_04.png?table=block&id=94e4e874-21ba-4e46-afc4-7ef920fd3590&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=380&userId=&cache=v2)
 
 - Commence par créer un calque de remplissage en cliquant dans la partie inférieure du panneau Calques sur l’icône *Créer un calque de remplissage ou de réglage*, puis sur **Couleur Unie**.
     
@@ -96,17 +106,24 @@ Tu vas maintenant mettre en pratique ce que tu viens de voir en détourant le su
     
 - Tu auras alors accès à 2 boutons : ***Sélectionner un sujet*** et ***Sélectionner et masquer***. La différence entre les deux est expliquée dans la vidéo. Clique sur ***Sélectionner et masquer*** afin d’entrer dans l’interface qui te permettra de sélectionner automatiquement ton sujet et d’en affiner la sélection.
 
-![Quête 04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9918f4aa-6e5d-400f-aab3-c8a96f135748/Qute_04.png)
+![Quête 04.png](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9918f4aa-6e5d-400f-aab3-c8a96f135748%2FQute_04.png?table=block&id=6b0066f8-3077-4b3a-a374-1567621fa9a5&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=1440&userId=&cache=v2)
 
 1. Une fois dans l’interface, commence par sélectionner ***Basée sur la couleur*** ; cela permettra à l’Intelligence Artificielle de Photoshop de détecter le sujet basé sur une différence de couleur. Notre sujet étant sur un fond plutôt uni, c’est idéal.
 2. Clique sur ***Sélectionner un sujet*** pour réaliser une sélection du sujet qui devrait maintenant apparaître.
 3. Clique sur ***Améliorer les cheveux*** pour que Photoshop améliore la sélection des cheveux.
 4. Celle-ci n’étant toujours pas parfaite, utilise l’outil d***’Amélioration des contours*** comme vu dans la vidéo tutoriel afin de te débarrasser des derniers endroits où l’on voit le ciel à travers ses cheveux.
 5. Attention ! Tu noteras que l’IA de Photoshop a mal fait son travail au niveau de la boucle d’oreille du sujet et de son vêtement au dessus de son épaule gauche. Utilise l’outil pinceau pour récupérer les éléments en question. Attention, sois précis !
-- Une fois terminé, clique sur “OK” pour réaliser ta sélection, et créé un masque de fusion, comme tu l’as appris durant cette quête !
+
+<details>
+  <summary>&#9658; Une fois terminé, clique sur “OK” pour réaliser ta sélection, et créé un masque de fusion, comme tu l’as appris durant cette quête ! Tu peux également supprimer le calque de réglage Couleur Unie que tu as créé au préalable.</summary>
+  
+  Cliquez sur l'image ci-dessous pour accéder à la vidéo
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dlVpNfIVVFA/0.jpg)](https://youtu.be/dlVpNfIVVFA)
+    <iframe width="1863" height="770" src="https://youtu.be/dlVpNfIVVFA" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
     
     
-    [https://youtu.be/dlVpNfIVVFA](https://youtu.be/dlVpNfIVVFA)
+    
     
 
 ---
