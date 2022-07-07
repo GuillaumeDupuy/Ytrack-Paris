@@ -1,4 +1,6 @@
-[https://www.youtube.com/watch?v=pHembwXrDEI](https://www.youtube.com/watch?v=pHembwXrDEI)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHembwXrDEI/0.jpg)](https://www.youtube.com/watch?v=pHembwXrDEI)
+<iframe width="1863" height="770" src="https://www.youtube.com/watch?v=pHembwXrDEI" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -21,7 +23,7 @@ Quelques exemples de définitions d’écrans :
 
 ---
 
-### Pour résumer :
+# Pour résumer :
 
 ![Capture d’écran 2022-06-09 à 16.25.13.png](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F34f7fec3-c12d-4506-a651-a7a312ad7517%2FCapture_decran_2022-06-09_a_16.25.13.png?table=block&id=bb75ae58-a28f-4e93-a410-8a7f7ccc77eb&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=2000&userId=&cache=v2)
 

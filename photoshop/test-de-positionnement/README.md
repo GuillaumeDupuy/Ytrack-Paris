@@ -6,7 +6,7 @@ Tu viens de pénétrer dans le monde magique du logiciel de référence de la su
 
 Avant de te lancer sur la pratique des bases du logiciel, nous allons devoir te transmettre à travers cette quête d’**Introduction** quelques notions primordiales à la compréhension de tout ce que tu feras durant ton cursus à Ynov.
 
-## Pourquoi ?
+# Pourquoi ?
 
 Tu n’apprendrais pas à conduire avant de connaître sur le bout des doigts le code de la route, n’est-ce pas ? Sans cela, tu ferais n’importe quoi et c’est un accident garanti, car il y a des règles universelles à connaître, et à respecter !
 
@@ -18,7 +18,7 @@ Eh bien c’est la même chose dans le graphisme ! Afin de t’éviter d’avoir
 
 Avant cela, nous aimerions en savoir un peu plus sur tes connaissances personnelles du sujet ; c’est pourquoi nous t’avons concocté un test de positionnement afin d’évaluer ton niveau actuel.
 
-### Pas de panique !
+# Pas de panique !
 
 Ce test n’est pas noté, il s’agit simplement d’un indicateur pour nous : tu peux n’avoir aucune bonne réponse et ce n’est pas grave, au contraire ! Cela signifie que tu vas apprendre beaucoup de notions, alors sois attentif.
 

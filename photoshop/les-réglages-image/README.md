@@ -4,9 +4,11 @@ Dans ces tutoriels consacrés aux réglages d’une image, tu apprendras comment
 
 ---
 
-### 1 - ****Réglage de la luminosité et du contraste****
+# 1 - ****Réglage de la luminosité et du contraste****
 
-[https://youtu.be/oMQk9xWe4oE](https://youtu.be/oMQk9xWe4oE)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oMQk9xWe4oE/0.jpg)](https://youtu.be/oMQk9xWe4oE)
+<iframe width="1863" height="770" src="https://youtu.be/oMQk9xWe4oE" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment régler la luminosité et le contraste.**
 
@@ -16,9 +18,11 @@ Dans ces tutoriels consacrés aux réglages d’une image, tu apprendras comment
 
 ---
 
-### 2 - ****Réglage de la vibrance des couleurs****
+# 2 - ****Réglage de la vibrance des couleurs****
 
-[https://youtu.be/oMQk9xWe4oE](https://youtu.be/oMQk9xWe4oE)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F23yHwO-pOM/0.jpg)](https://youtu.be/F23yHwO-pOM)
+<iframe width="1863" height="770" src="https://youtu.be/F23yHwO-pOM" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment modifier la vibrance.**
 
@@ -28,9 +32,11 @@ Dans ces tutoriels consacrés aux réglages d’une image, tu apprendras comment
 
 ---
 
-### 3 - ****Réglage de la teinte et de la saturation****
+# 3 - ****Réglage de la teinte et de la saturation****
 
-[https://youtu.be/XLaXiReVp7I](https://youtu.be/XLaXiReVp7I)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XLaXiReVp7I/0.jpg)](https://youtu.be/XLaXiReVp7I)
+<iframe width="1863" height="770" src="https://youtu.be/XLaXiReVp7I" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment régler la teinte et la saturation.**
 
@@ -41,9 +47,11 @@ Dans ces tutoriels consacrés aux réglages d’une image, tu apprendras comment
 
 ---
 
-### 4 - Calques de réglage
+# 4 - Calques de réglage
 
-[https://youtu.be/-ooEfxTUt7w](https://youtu.be/-ooEfxTUt7w)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-ooEfxTUt7w/0.jpg)](https://youtu.be/-ooEfxTUt7w)
+<iframe width="1863" height="770" src="https://youtu.be/-ooEfxTUt7w" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment ajouter un calque de réglage.**
 
@@ -55,9 +63,9 @@ Les calques de réglage t’offrent davantage de souplesse pour effectuer des re
 
 ---
 
-### 5 - Mise en pratique
+# 5 - Mise en pratique
 
-![Quête 05.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/965079c5-0405-4e30-8dde-e42b39495230/Qute_05.jpg)
+![Quête 05.jpg](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F965079c5-0405-4e30-8dde-e42b39495230%2FQute_05.jpg?table=block&id=dcbc4ca4-337f-48a0-b24c-ca8da6cfb72e&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=580&userId=&cache=v2)
 
 On reprend notre image où tu as précédemment détouré ton sujet avant de l’intégrer sur un nouveau fond.
 
@@ -67,13 +75,15 @@ La prochaine étape consiste donc à “intégrer” le sujet dans son fond. C�
 
 Tu vas maintenant mettre en pratique ce que tu viens de voir intégrant ton sujet dans son fond à l’aide des calques de réglages. Voici un tutoriel t’expliquant une méthode.
 
-[https://www.youtube.com/watch?v=SoWefQNcIyY](https://www.youtube.com/watch?v=SoWefQNcIyY)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SoWefQNcIyY/0.jpg)](https://youtu.be/SoWefQNcIyY)
+<iframe width="1863" height="770" src="https://youtu.be/SoWefQNcIyY" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Tu peux activer les sous-titres de la vidéos et changer leur langue en allant dans **Paramètres > Sous-titres > Traduire automatiquement > Français**.*
 
 À toi de jouer ! Tu vas maintenant devoir réaliser l’intégration du sujet en utilisant la méthode vue dans le tutoriel. Pas de panique, comme d’habitude, nous sommes là pour t’aiguiller !
 
-![Quête 05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fecf2f13-c9d1-4415-94de-49668b701665/Qute_05.png)
+![Quête 05.png](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffecf2f13-c9d1-4415-94de-49668b701665%2FQute_05.png?table=block&id=b749d5ae-8550-4f64-af19-8c9d87413d65&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=380&userId=&cache=v2)
 
 Comme tu peux le constater, l’intégration des cheveux n’est pas optimale. Comment cela se fait ?
 
@@ -88,7 +98,9 @@ La première chose à faire est de corriger cela.
 5. Passe le calque en mode *Lumière ponctuelle* afin d’adoucir l’effet
 6. Groupe les 2 calques (*Sujet* + *Cheveux*) dans un dossier que tu nommes *Sujet* ; pour cela, sélectionne les 2 calques et fais Ctrl+G (Windows) ou Cmd+G (Mac OS). Cela te permettra par la suite d’appliquer un masque d’écrêtage au dossier pour appliquer les effets eux deux calques.
 
-[https://youtu.be/341d5RvaLZE](https://youtu.be/341d5RvaLZE)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/341d5RvaLZE/0.jpg)](https://youtu.be/341d5RvaLZE)
+<iframe width="1863" height="770" src="https://youtu.be/341d5RvaLZE" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bien, nous allons pouvoir commencer à intégrer le sujet !
 
@@ -105,23 +117,29 @@ Bien, nous allons pouvoir commencer à intégrer le sujet !
     
 - Créé un deuxième calque de ***Correspondance de couleur***, mais choisis cette fois **Soft_Warming** et baisse l’opacité à 50%.
 
-### Allons plus loin !
+# Allons plus loin !
 
 Tu as réussi à intégrer ton sujet dans son background, bravo !
 
 On peut cependant pousser un tout petit peu plus loin afin d’obtenir un résultat encore plus réaliste ! À ton avis, qu’est-ce qui manque ? Si je te mets ces deux images pour comparer, cela devrait t’aider.
 
-![Image 02.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ea92c94-07d1-4ce3-847f-a800ae31f8c5/Image_02.jpg)
+![Image 02.jpg](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1ea92c94-07d1-4ce3-847f-a800ae31f8c5%2FImage_02.jpg?table=block&id=506d1732-e944-4776-ae2a-49c27de0e1e5&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=580&userId=&cache=v2)
 
-![Quête 05.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05ba146c-4e98-45b1-a9ef-5f2bfd305ba2/Qute_05.jpg)
+![Quête 05.jpg](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F05ba146c-4e98-45b1-a9ef-5f2bfd305ba2%2FQute_05.jpg?table=block&id=1957d8fe-cbf5-45f4-9b86-a2ec77d0f74e&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=580&userId=&cache=v2)
 
 Lorsque tu regarde l’image d’origine, tu peux effectivement constater que le background de la photo est complètement flou (on parle de ***profondeur de champ***, en photographie, à savoir l’espace dans les limites duquel les images sont nettes). Il y a en l’occurence ici peu de profondeur de champs, puisque l’arrière-plan est complètement flou. Et si nous faisions pareil avec notre sujet ?
 
-[https://youtu.be/jkfdQOfmji0](https://youtu.be/jkfdQOfmji0)
+- Sélectionne le calque *Background*.
+- Va dans **Filtre** > **Galerie d’effet de flou** > **Bascule-Décentrement**
+- 
+
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jkfdQOfmji0/0.jpg)](https://youtu.be/jkfdQOfmji0)
+<iframe width="1863" height="770" src="https://youtu.be/jkfdQOfmji0" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 # Notions
 
-> [Vidéo 01](https://www.youtube.com/watch?v=oMQk9xWe4oE) - [Vidéo 02](https://www.youtube.com/watch?v=oMQk9xWe4oE) - [Vidéo 03](https://www.youtube.com/watch?v=XLaXiReVp7I) - [Vidéo 04](https://www.youtube.com/watch?v=-ooEfxTUt7w) - [Vidéo 05](https://www.youtube.com/watch?v=SoWefQNcIyY) - [Vidéo 06](https://youtu.be/341d5RvaLZE) - [Vidéo 07](https://youtu.be/jkfdQOfmji0)
+> [Vidéo 01](https://www.youtube.com/watch?v=oMQk9xWe4oE) - [Vidéo 02](https://www.youtube.com/watch?v=F23yHwO-pOM) - [Vidéo 03](https://www.youtube.com/watch?v=XLaXiReVp7I) - [Vidéo 04](https://www.youtube.com/watch?v=-ooEfxTUt7w) - [Vidéo 05](https://www.youtube.com/watch?v=SoWefQNcIyY) - [Vidéo 06](https://youtu.be/341d5RvaLZE) - [Vidéo 07](https://youtu.be/jkfdQOfmji0)
 >

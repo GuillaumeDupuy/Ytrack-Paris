@@ -6,9 +6,11 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 1 - ****Ouverture d'images****
+# 1 - ****Ouverture d'images****
 
-[https://youtu.be/1QWdk0SzphA](https://youtu.be/1QWdk0SzphA)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1QWdk0SzphA/0.jpg)](https://youtu.be/1QWdk0SzphA)
+<iframe width="1863" height="770" src="https://youtu.be/1QWdk0SzphA" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment ouvrir et créer des images.**
 
@@ -23,9 +25,11 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 2 - ****Familiarisation avec l'espace de travail****
+# 2 - ****Familiarisation avec l'espace de travail****
 
-[https://youtu.be/TwlS11Vy5KI](https://youtu.be/TwlS11Vy5KI)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TwlS11Vy5KI/0.jpg)](https://youtu.be/TwlS11Vy5KI)
+<iframe width="1863" height="770" src="https://youtu.be/TwlS11Vy5KI" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant à quoi ressemble l’interface.**
 
@@ -41,9 +45,11 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 3 - Z****ooms et panoramiques****
+# 3 - Z****ooms et panoramiques****
 
-[https://youtu.be/C1fLzj-ljts](https://youtu.be/C1fLzj-ljts)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C1fLzj-ljts/0.jpg)](https://youtu.be/C1fLzj-ljts)
+<iframe width="1863" height="770" src="https://youtu.be/C1fLzj-ljts" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Tu sais maintenant comment effectuer des zooms avant et arrière et des panoramiques.**
 
@@ -58,7 +64,7 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 4 - ****Annuler une action****
+# 4 - ****Annuler une action****
 
 ![https://monophy.com/media/iiJZbxXPDFMf31GOHn/monophy.gif](https://monophy.com/media/iiJZbxXPDFMf31GOHn/monophy.gif)
 
@@ -67,7 +73,7 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 5 - ****Enregistrer ton travail****
+# 5 - ****Enregistrer ton travail****
 
 - Choisisse le format Photoshop (.psd) pour conserver les calques, le texte et autres propriétés modifiables de Photoshop. Il est recommandé d’enregistrer ton image dans ce format pendant que tu travaille dessus.
     
@@ -82,16 +88,17 @@ Afin de pouvoir suivre correctement les vidéos et avoir le même espace de trav
 
 ---
 
-### 6 - Mise en pratique
+# 6 - Mise en pratique
 
-- Avec l’ensemble des connaissances précédemment acquises lors de la Quête 01 et 02, crée un nouveau document ayant une définition de 2000 pixels par 3000 pixels, à destination du web.
+<details>
+  <summary>&#9658; Avec l’ensemble des connaissances précédemment acquises lors de la Quête 01 et 02, crée un nouveau document ayant une définition de 2000 pixels par 3000 pixels, à destination du web.</summary>
+  
+  *—> Indice : “à destination du web” devrait t’aiguiller sur la résolution et le mode colorimétrique à choisir !*
+</details>
     
-    *—> Indice : “à destination du web” devrait t’aiguiller sur la résolution et le mode colorimétrique à choisir !*
-    
+Enregistre ensuite ton travail en PSD et nomme-le “***NOM_Prénom.psd**”*
 
-       Enregistre ensuite ton travail en PSD et nomme-le “***NOM_Prénom.psd**”*
-
-![Quête 02.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02076aed-aaf4-4c6e-a43c-cbac424c02c4/Qute_02.jpg)
+![Quête 02.jpg](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F02076aed-aaf4-4c6e-a43c-cbac424c02c4%2FQute_02.jpg?table=block&id=53fb7222-f37d-44f0-bd14-80b7f18e885c&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=1340&userId=&cache=v2)
 
 ---
 

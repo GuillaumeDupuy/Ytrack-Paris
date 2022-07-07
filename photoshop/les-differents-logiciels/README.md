@@ -1,4 +1,4 @@
-[https://www.youtube.com/watch?v=LgTsny8WttQ](https://www.youtube.com/embed/LgTsny8WttQ)
+Cliquez sur l'image ci-dessous pour accéder à la vidéo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LgTsny8WttQ/0.jpg)](https://www.youtube.com/watch?v=LgTsny8WttQ)
 <iframe width="1863" height="770" src="https://www.youtube.com/embed/LgTsny8WttQ" title="Photoshop vs Illustrator vs inDesign vs After Effects - quel logiciel Adobe choisir ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,7 +14,7 @@ Bien qu’il y ait plus de 50 applications au total, il n’y en a « que »
 
 ---
 
-## 01 - **Adobe Photoshop**
+# 01 - **Adobe Photoshop**
 
 - **Utilisé pour** : `l'édition et la manipulation d'images`, `la retouche photo`, `la conception graphique`, `le matte painting`…
 
@@ -24,7 +24,7 @@ Il peut être utilisé, par exemple, pour éditer et composer des images matrici
 
 ---
 
-## 02 - **Adobe Illustrator**
+# 02 - **Adobe Illustrator**
 
 - **Utilisé pour** : `la création de logos`, `d'illustrations simples ou complexes`, `de typographies`…
 
@@ -34,7 +34,7 @@ Comme son nom l’indique, Illustrator est le plus couramment utilisé par les a
 
 ---
 
-## 03 - **Adobe InDesign**
+# 03 - **Adobe InDesign**
 
 - **Utilisé pour** : `la mise en page de tous types d'éditions ainsi que la préparation des fichiers dédiés à l'imprimeur`...
 
@@ -44,7 +44,7 @@ Outil standard de l’industrie de l’édition, il est généralement utilisé 
 
 ---
 
-## 04 - **Adobe After Effects**
+# 04 - **Adobe After Effects**
 
 - **Utilisé pour** : `faire de l'animation`, `de la kinétique`, `du motion design`, `des effets spéciaux`...
 
@@ -54,7 +54,7 @@ Cette application de post-production et d’animation graphique est idéale pour
 
 ---
 
-## 05 - Adobe XD
+# 05 - Adobe XD
 
 - **Utilisé pour** : `la création de prototypes`, `de wireframes`, `et de maquettes d'applications mobiles ou de sites web`...
 
@@ -62,7 +62,7 @@ Petit dernier de la suite Adobe, XD a vocation à faciliter la conception de maq
 
 ---
 
-### Pour résumer :
+# Pour résumer :
 
 ![résumé](https://gravel-mousepad-0b0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb7778f08-8a8f-4015-84b3-fd073fc7c059%2FCapture_decran_2022-06-09_a_15.37.27.png?table=block&id=10e1efc2-a554-4bca-aec4-cb148557c2db&spaceId=63c34a07-a494-4d30-b56b-5389aaeabc41&width=2000&userId=&cache=v2)
 
