@@ -34,19 +34,19 @@ Reuse all previous files (`battle_simulator.py`, `spaceships.py`, `fleet.py` and
 
 There are 3 steps in a battle:
 
-![legend](battle_legend.png)
+![legend](https://github.com/thomas-marquis/ytrack-python-1/raw/main/subjects/Q03E10_full_simulator/battle_legend.png)
 
 * **Step 1:** battleships vs battleships
 
-![step 1](battle_phase_1.png)
+![step 1](https://github.com/thomas-marquis/ytrack-python-1/raw/main/subjects/Q03E10_full_simulator/battle_phase_1.png)
 
 * **Step 2:** fighters vs fighters
 
-![step 2](battle_phase_2.png)
+![step 2](https://github.com/thomas-marquis/ytrack-python-1/raw/main/subjects/Q03E10_full_simulator/battle_phase_2.png)
 
 * **Step 3:** all surviving fighters and battleships
 
-![step 3](battle_phase_3.png)
+![step 3](https://github.com/thomas-marquis/ytrack-python-1/raw/main/subjects/Q03E10_full_simulator/battle_phase_3.png)
 
 Your `fight` method should implement those steps correctly.
 
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     print(defenders.ships[0].is_alive)
     print(defenders.ships[1].is_alive)
     print(defenders.ships[2].is_alive)
-    print(simulator.get_report)
+    print(simulator.get_report())
 ```
 
 ```bash
