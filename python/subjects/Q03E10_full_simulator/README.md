@@ -81,7 +81,7 @@ if __name__ == '__main__':
     print(defenders.ships[0].is_alive)
     print(defenders.ships[1].is_alive)
     print(defenders.ships[2].is_alive)
-    print(simulator.get_report)
+    print(simulator.get_report())
 ```
 
 ```bash
