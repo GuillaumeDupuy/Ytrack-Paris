@@ -17,7 +17,7 @@ Here is a possible `test.py` to test your functions:
 
 ```python
 from dock import SpaceDock
-from dock_repository import SpaceDockFileRepository
+from dock_repositories import SpaceDockFileRepository
 from spaceships import Interceptor, Frigate
 
 if __name__ == '__main__':
