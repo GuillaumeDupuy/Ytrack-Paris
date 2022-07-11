@@ -21,7 +21,7 @@ Raise a ValueError if invalid any other is passed to DOCK_REPOSITORY. Use follow
 
 ## Tips
 
-* You cas use the `match/case` python syntax.
+* You can use the `match/case` python syntax.
 
 ## Usage
 
