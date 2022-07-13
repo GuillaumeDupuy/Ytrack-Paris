@@ -2,7 +2,7 @@
 
 # 📜 Informations
 
-**Duration:** ~4hours
+**Duration:** ~8hours
 
 **Difficulty:** Beginner-Intermediate
 

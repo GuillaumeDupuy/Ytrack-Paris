@@ -10,7 +10,7 @@ Create file `space_yard.py` with class `SpaceYard`. It should take a `SpaceDock`
 
 Create a method `build_ship` that return nothing and expect 5 arguments:
 
-* `fleet_name` as string, the name of an existing (or not) fleet in space dock. After new ships created, they will bo store to that fleet
+* `fleet_name` as string, the name of an existing (or not) fleet in space dock. After new ships created, they will be stored to that fleet
 * `ship_class` as Spaceship subclass (ex: INterceptor, Destroyer...). Type of new ships
 * `quantity` as integer. The number of desired ships
 * `available_metal` as integer. User resource available stock

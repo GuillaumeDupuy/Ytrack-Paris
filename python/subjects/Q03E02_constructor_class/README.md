@@ -39,4 +39,4 @@ True
 
 ## Notions
 
-* [Constructor]([#](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7195400-ecrivez-une-classe-python#/id/r-7195466))
+* [Constructor](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7195400-ecrivez-une-classe-python#/id/r-7195466)
