@@ -23,6 +23,12 @@ Add 4 methods :
 }
 ```
 
+Then, implement corresponding properties:
+
+* `alive_ships`
+* `alive_fighters`
+* `alive_battleships`
+* `report`
 
 ## Usage
 
@@ -41,6 +47,9 @@ if __name__ == '__main__':
     uss_kelvin.is_alive = False
     print(len(star_fleet.get_alive_battleships()))
     print(star_fleet.get_report())
+
+    print(star_fleet.report == star_fleet.get_report())
+    print(star_fleet.alive_fighters == star_fleet.get_alive_fighters())
 ```
 
 ```bash
@@ -49,8 +58,11 @@ Starfleet
 4
 2
 {'alive_battleships': 2, 'alive_fighters': 1, 'dead_battleships': 1, 'dead_fighters': 0}
+True
+True
 ```
 
 ## Notions
 
 * [Object collections](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7196587-utilisez-des-objets-dans-des-collections)
+* [Properties](https://www.geeksforgeeks.org/python-property-decorator-property/)

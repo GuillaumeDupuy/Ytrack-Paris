@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create file `battle_simulator.py` in same directory as files `base_spaceships.py` and `spaceships.py` and create a class `Simulator` with the "private" method `_duel_fight` that dose return nothing. This method should take 2 parameters, both are `Spaceship`:
+Create file `battle_simulator.py` in same directory as files `base_spaceships.py` and `spaceships.py` and create a class `Simulator` with the "private" *static* method `_duel_fight` that dose return nothing. This method should take 2 parameters, both are `Spaceship`:
 
 * attacker ship
 * defender ship
@@ -53,3 +53,4 @@ False
 
 * [Pass argument by reference or by value ?](https://www.geeksforgeeks.org/pass-by-reference-vs-value-in-python/)
 * [Does private methods exists in pyhton ?](https://codefather.tech/blog/private-methods-python/)
+* [static methods](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7195794-creez-et-utilisez-des-objets-python#/id/r-7195659)
